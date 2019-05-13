@@ -1,7 +1,9 @@
 var Word = require("./Word");
 var inquirer = require("inquirer");
 
-var words = ["one", "two", "three", "four"];
+var words = ["michael", "dwight", "jim", "pam", "ryan", "andy", "jan", 
+"roy", "stanley", "kevin", "meredith", "angela", "oscar", "phyllis", 
+"kelly", "toby", "creed", "darryl", "erin", "gabe", "holly"];
 var remainingGuesses = 0;
 var guessedLetters = [];
 
